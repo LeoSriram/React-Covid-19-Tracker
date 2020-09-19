@@ -1,3 +1,7 @@
+Deployed at:[https://covid-19-tracker-b3b6d.firebaseapp.com/]
+
+API used: [https://disease.sh/docs]
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
